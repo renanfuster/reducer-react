@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.addnewname__container p {
+  font-size: 2em;
+}
+
+.addnewname__container input {
+  font-size: 2em;
+  padding: 3px;
+}
+
+.addnewname__container button {
+  font-size: 2em;
+  padding: 4px;
+  border: 1px solid #000;
+  margin-left: 5px;
+}
+
+.addnewname__container-details {
+  margin-top: 10px;
+  font-size: 1.5em;
+}
